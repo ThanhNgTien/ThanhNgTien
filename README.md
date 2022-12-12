@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm NTT</h1>
+<h3 align="center">Full stack </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doduy&label=Profile%20views&color=0e75b6&style=flat" alt="doduy" /> </p>
+
+
+
+
 
 <!--
 **thanh20022011/thanh20022011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
