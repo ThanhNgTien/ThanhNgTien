@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuyen Tien Thanh</h1>
-<h3 align="center">Full stack </h3>
+<h3 align="center"> Freelancer Web programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanh20022011&label=Profile%20views&color=0e75b6&style=flat" alt="thanh20022011" /> </p>
 
